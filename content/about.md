@@ -43,13 +43,13 @@ I started this blog to jot down things I've learned, mainly because I tend to fo
 📡 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC @ Wikipedia") - hiiruki @ [Rizon](https://www.rizon.net/)<br>
 📡 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC @ Wikipedia") - hiiruki @ [tilde.chat](https://tilde.chat/)<br>
 
-📧 [E-mail](mailto:h%69&#64;h&#105;&#105;ru&#107;&#105;&#46;&#100;ev)
+📧 [E-mail](mailto:hi@hiiruki.moe)
 
 <details>
 <summary> 🔑 PGP Public Key </summary>
 
 ```shell
-curl -sL https://hiiruki.dev/pgp | gpg --import
+curl -sL https://hiiruki.moe/pgp | gpg --import
 
 # Fingerprint: [0xAF5886C8] • AEA5 B927 D7F0 D40B F4B3  C9F1 E40D 7521 AF58 86C8
 ```
@@ -61,7 +61,7 @@ curl -sL https://hiiruki.dev/pgp | gpg --import
 <summary> 🔑 SSH Public Key </summary>
 
 ```shell
-curl -sL https://hiiruki.dev/ssh | tee -a ~/.ssh/authorized_keys
+curl -sL https://hiiruki.moe/ssh | tee -a ~/.ssh/authorized_keys
 
 # Fingerprint: SHA256:uxJNkKzML7tBYwYdjzviimi/Nw4Nd8ghFpl2MOrYLnw
 ```
@@ -95,18 +95,18 @@ F1085BD5 D359788F 05F936D8 3185A5BE
 <details>
 <summary>🎵 Now listening</summary>
 <p>
-<img src="https://api.spotify.hiiruki.dev/api?scan=true&theme=dark" align="center" alt="Current Spotify Song">
+<img src="https://api.spotify.hiiruki.moe/api?scan=true&theme=dark" align="center" alt="Current Spotify Song">
 </p>
 <br>
 
-[Full Visualizer](https://spotify.hiiruki.dev/ "Spotify Visualizer")
+[Full Visualizer](https://spotify.hiiruki.moe/ "Spotify Visualizer")
 </details>
 <br>
 
 <details>
 <summary>👨‍💻 Doing something</summary>
 <p>
-  <img src="https://lanyard-profile-readme.vercel.app/api/529270835341426708?hideTimestamp=false&hideDiscrim=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" alt="Discord Presence">
+  <img src="https://lanyard.hiiruki.moe/api/529270835341426708?useDisplayName=true" align="center" alt="Discord Presence">
 </p>
 </details>
 <br>
@@ -119,7 +119,7 @@ F1085BD5 D359788F 05F936D8 3185A5BE
 </details>
 <br>
 
-📊 [Status](https://status.hiiruki.dev/ "Hiiruki's Status Page")<br>
+📊 [Status](https://status.hiiruki.moe/ "Hiiruki's Status Page")<br>
 
 🧑‍💼 [humans.txt](/humans.txt)
 
